@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_80044_shopping_l_store</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the Store name field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2019-11-15 21:35:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>efa74647db81041089757bedbf96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Store name field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shopping List" source="x_80044_shopping_l">8027ca43db81041089757bedbf96197f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">8027ca43db81041089757bedbf96197f</sys_scope>
+        <sys_update_name>sys_data_policy2_efa74647db81041089757bedbf96193c</sys_update_name>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2019-11-15 21:35:49</sys_updated_on>
+    </sys_data_policy2>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Store)">deb88687db81041089757bedbf96199a</button>
+        <item_parameter display_value="Store store_name">dab88687db81041089757bedbf961998</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2019-11-15 21:40:22</sys_created_on>
+        <sys_id>92b88687db81041089757bedbf96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dab88687db81041089757bedbf961998</sys_name>
+        <sys_package display_value="Shopping List" source="x_80044_shopping_l">8027ca43db81041089757bedbf96197f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">8027ca43db81041089757bedbf96197f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_92b88687db81041089757bedbf96199d</sys_update_name>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2019-11-15 21:40:22</sys_updated_on>
+        <ui_parameter display_value="Store name">deb88687db81041089757bedbf96199b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

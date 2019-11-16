@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Store Item Stream">deb88687db81041089757bedbf961990</item_stream>
+        <segment display_value="Store Item Stream Segment">1ab886c3db81041089757bedbf96192c</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2019-11-15 21:40:22</sys_created_on>
+        <sys_id>1eb88687db81041089757bedbf961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_80044_shopping_l">8027ca43db81041089757bedbf96197f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">8027ca43db81041089757bedbf96197f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_1eb88687db81041089757bedbf961991</sys_update_name>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2019-11-15 21:40:22</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
